@@ -1,6 +1,6 @@
 # Database Project for Data Engineering Track in DEPI
 ## Overview
-This project is a collaborative effort by Haneen Alaa, Ahmed Nezar, Philobateer, and Youssef Gehad and Supervised by Hazem Omar. It was undertaken as part of the Data Engineering track in the Digital Egypt Pioneers Initiative (DEPI), specifically for the SQL course. The project involves creating and managing a database for a hypothetical company, covering various aspects such as customer orders, employee assignments, and departmental budgets.
+This project is a collaborative effort by Haneen Alaa, Ahmed Nezar, Philobateer, and Youssef Gehad, supervised by Eng. Hazem Omar. It was undertaken as part of the Data Engineering track in the Digital Egypt Pioneers Initiative (DEPI), specifically for the SQL course. The project involves creating and managing a database for a hypothetical company, covering various aspects such as customer orders, employee assignments, and departmental budgets.
 
 ## Team Members
 - Haneen Alaa

@@ -5,7 +5,7 @@ This project is a collaborative effort by Haneen Alaa, Ahmed Nezar, Philopater M
 ## Team Members
 - Haneen Alaa
 - Ahmed Nezar
-- Philobateer
+- Philopater Mansour
 - Youssef Gehad
 
 ## Project Objectives
